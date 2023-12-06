@@ -167,7 +167,7 @@ body{
     text-align: center;
     font-family: var(--fonte-primaria);
     font-size: 24px;
-    padding-bottom: 1em;
+    padding: 1em;
 }
 
 .conteudo-descricao{
@@ -205,6 +205,11 @@ body{
 
     .conteudo-secundario{
         align-items:start ;
+    }
+
+    .conteudo-imagem{
+        width: 80%;
+        height:80%;
     }
 
   }
